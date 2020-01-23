@@ -7,4 +7,4 @@ Link to Application:
 [Day-Planner!](https://shanscirg.github.io/day-planner/)
 
 Screenshot of Applcation:
-![screenshot](./assets/images/plannerScreenshot.png)
+![screenshot](./Assets/Images/plannerScreenshot.png)
